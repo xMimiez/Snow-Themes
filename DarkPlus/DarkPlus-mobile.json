@@ -1,6 +1,6 @@
 {
   "name": "Dark+",
-  "description": "Mobile port of DevEvil Dark+. Dark grey surfaces, purple accent. CSS layout/home-icon/watermark filters omitted.",
+  "description": "Mobile port of DevEvil Dark+. Dark grey surfaces, purple accent. Icon pack/tints live in icons-test.",
   "version": "Dark+6-mobile",
   "authors": [
     {
@@ -212,32 +212,6 @@
   },
   "plus": {
     "version": "0",
-    "iconpack": "solarduotone",
-    "mentionLineColor": "#BB86FC",
-    "customOverlays": true,
-    "icons": {
-      "ic_radio_circle_checked": "#BB86FC",
-      "ic_radio_circle_checked__overlay": "#212121",
-      "ic_radio_square_checked_24px": "#BB86FC",
-      "ic_radio_square_checked_24px__overlay": "#212121",
-      "ic_selection_checked_24px": "#BB86FC",
-      "ic_selection_checked_24px__overlay": "#212121",
-      "ic_star_filled": "#BB86FC",
-      "img_guild_folder": "#BB86FC",
-      "StatusOnline": "#81C995",
-      "StatusIdle": "#E2C06A",
-      "StatusDND": "#CF6679",
-      "StatusOffline": "#6A6A6A",
-      "StatusMobileOnline": "#BB86FC",
-      "ic_send": "#212121",
-      "ic_send__overlay": "#BB86FC",
-      "ShopIcon": "#BB86FC",
-      "PencilIcon": "#BB86FC",
-      "SettingsIcon": "#BB86FC",
-      "MagnifyingGlassIcon": "#BB86FC",
-      "search": "#BB86FC",
-      "MoreHorizontalIcon": "#BB86FC",
-      "NitroWheelIcon": "#BB86FC"
-    }
+    "mentionLineColor": "#BB86FC"
   }
 }
